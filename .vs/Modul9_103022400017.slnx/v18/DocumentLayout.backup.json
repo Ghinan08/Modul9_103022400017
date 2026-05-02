@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\Modul9_103022400017\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F443CCC-FCC9-4562-BFBD-41E051AC95CD}|Modul9_103022400017\\Modul9_103022400017.csproj|d:\\modul9_103022400017\\modul9_103022400017\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F443CCC-FCC9-4562-BFBD-41E051AC95CD}|Modul9_103022400017\\Modul9_103022400017.csproj|solutionrelative:modul9_103022400017\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BBA392F-1393-D0C9-5809-44D2B173BBC5}|Modul9_103022400017\\Modul9_103022400017.csproj|d:\\modul9_103022400017\\modul9_103022400017\\banktransferconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BBA392F-1393-D0C9-5809-44D2B173BBC5}|Modul9_103022400017\\Modul9_103022400017.csproj|solutionrelative:modul9_103022400017\\banktransferconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BBA392F-1393-D0C9-5809-44D2B173BBC5}|Modul9_103022400017\\Modul9_103022400017.csproj|d:\\modul9_103022400017\\modul9_103022400017\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BBA392F-1393-D0C9-5809-44D2B173BBC5}|Modul9_103022400017\\Modul9_103022400017.csproj|solutionrelative:modul9_103022400017\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BankTransferConfig.cs",
+              "DocumentMoniker": "D:\\Modul9_103022400017\\Modul9_103022400017\\BankTransferConfig.cs",
+              "RelativeDocumentMoniker": "Modul9_103022400017\\BankTransferConfig.cs",
+              "ToolTip": "D:\\Modul9_103022400017\\Modul9_103022400017\\BankTransferConfig.cs",
+              "RelativeToolTip": "Modul9_103022400017\\BankTransferConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T07:13:16.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Modul9_103022400017\\Modul9_103022400017\\Program.cs",
               "RelativeDocumentMoniker": "Modul9_103022400017\\Program.cs",
